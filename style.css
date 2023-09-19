@@ -126,7 +126,7 @@ main {
   padding: 30px;
   background-color: rgba(0, 0, 0, 0.5568627451);
   text-align: center;
-   margin: 70% auto;
+   margin: 60% auto;
  
 }
 
@@ -903,7 +903,7 @@ footer.footer-2 {
   }
    .title-banner {
     width: 90%;
-    margin: 70% auto;
+    margin: 60% auto;
 }
   .title-banner h3 {
     font-size: 16px;
@@ -974,6 +974,8 @@ footer.footer-2 {
 
   .map {
     width: 90%;
+    margin:0 auto;
+    
   }
   .inputs-text input[type=text] {
     width: 50%;
