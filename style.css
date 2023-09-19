@@ -904,9 +904,14 @@ footer.footer-2 {
   nav.menu-mobile {
     display: block;
   }
-  .title-banner {
-    width: 90%;
-  }
+ .title-banner {
+  width: 90%;
+  display: inline-block;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-40%);
+}
   .title-banner h3 {
     font-size: 16px;
   }
@@ -1038,7 +1043,12 @@ footer.footer-2 {
   }
   .title-banner {
     width: 90%;
-  }
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-40%);
+}
   button.btn-1 {
     width: 60%;
   }
@@ -1063,7 +1073,12 @@ footer.footer-2 {
   }
   .title-banner {
     width: 90%;
-  }
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-40%);
+}
   button.btn-1 {
     width: 60%;
   }
@@ -1084,7 +1099,7 @@ footer.footer-2 {
     width: 60%;
   }
    button.btn-2 {
-  width: 70%;
+    width: 70%;
 
   }
   .wraper-sobre {
