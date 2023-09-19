@@ -1040,10 +1040,7 @@ footer.footer-2 {
   .desk-sobre p {
     max-width: 770px;
   }
-  .title-banner {
-   width: 90%;
-   margin: 55% auto;
- }
+
   button.btn-1 {
     width: 60%;
   }
@@ -1066,10 +1063,7 @@ footer.footer-2 {
   nav.menu-mobile {
     display: block;
   }
-  .title-banner {
-    width: 90%;
-    margin: 50% auto;
-  }
+  
   button.btn-1 {
     width: 60%;
   }
