@@ -130,7 +130,7 @@ main {
   position: relative;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,60%);
+  transform: translate(-50%,55%);
 }
 
 .title-banner h3 {
@@ -909,7 +909,7 @@ footer.footer-2 {
     position: relative;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,60%);
+    transform: translate(-50%,55%);
 }
   .title-banner h3 {
     font-size: 16px;
@@ -1045,7 +1045,7 @@ footer.footer-2 {
   position: relative;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,60%);
+  transform: translate(-50%,55%);
  }
   button.btn-1 {
     width: 60%;
@@ -1074,7 +1074,7 @@ footer.footer-2 {
     position: relative;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,60%);
+    transform: translate(-50%,55%);
   }
   button.btn-1 {
     width: 60%;
