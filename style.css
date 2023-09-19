@@ -917,6 +917,11 @@ footer.footer-2 {
   button.btn-1 {
     width: 60%;
   }
+
+  button.btn-2 {
+  width: 70%;
+
+}
   .wraper-sobre {
     display: block;
     padding-top: 3%;
@@ -1037,6 +1042,10 @@ footer.footer-2 {
   button.btn-1 {
     width: 60%;
   }
+   button.btn-2 {
+  width: 70%;
+
+  }
   .title-banner h3 {
     font-size: 16px;
   }
@@ -1058,6 +1067,10 @@ footer.footer-2 {
   button.btn-1 {
     width: 60%;
   }
+   button.btn-2 {
+  width: 70%;
+
+ }
 }
 @media screen and (max-width: 1120px) {
   .title-banner h3 {
@@ -1069,6 +1082,10 @@ footer.footer-2 {
   }
   button.btn-1 {
     width: 60%;
+  }
+   button.btn-2 {
+  width: 70%;
+
   }
   .wraper-sobre {
     display: block;
