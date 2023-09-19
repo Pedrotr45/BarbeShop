@@ -126,11 +126,8 @@ main {
   padding: 30px;
   background-color: rgba(0, 0, 0, 0.5568627451);
   text-align: center;
-  display: inline-block;
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-60%);
+   margin: 90% auto;
+ 
 }
 
 .title-banner h3 {
@@ -906,10 +903,7 @@ footer.footer-2 {
   }
    .title-banner {
     width: 90%;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-60%);
+    margin: 90% auto;
 }
   .title-banner h3 {
     font-size: 16px;
@@ -1042,10 +1036,7 @@ footer.footer-2 {
   }
   .title-banner {
   width: 90%;
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-60%);
+   margin: 90% auto;
  }
   button.btn-1 {
     width: 60%;
@@ -1071,10 +1062,7 @@ footer.footer-2 {
   }
   .title-banner {
     width: 90%;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-60%);
+    margin: 90% auto;
   }
   button.btn-1 {
     width: 60%;
