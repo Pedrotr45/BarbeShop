@@ -126,7 +126,7 @@ main {
   padding: 30px;
   background-color: rgba(0, 0, 0, 0.5568627451);
   text-align: center;
-   margin: 90% auto;
+   margin: 70% auto;
  
 }
 
@@ -903,7 +903,7 @@ footer.footer-2 {
   }
    .title-banner {
     width: 90%;
-    margin: 90% auto;
+    margin: 70% auto;
 }
   .title-banner h3 {
     font-size: 16px;
@@ -971,6 +971,10 @@ footer.footer-2 {
   .wraper-galeria {
     padding-top: 8%;
   }
+
+  .map {
+    width: 90%;
+  }
   .inputs-text input[type=text] {
     width: 50%;
     padding: 10px 30px;
@@ -1035,8 +1039,8 @@ footer.footer-2 {
     max-width: 770px;
   }
   .title-banner {
-  width: 90%;
-   margin: 90% auto;
+   width: 90%;
+   margin: 70% auto;
  }
   button.btn-1 {
     width: 60%;
@@ -1062,7 +1066,7 @@ footer.footer-2 {
   }
   .title-banner {
     width: 90%;
-    margin: 90% auto;
+    margin: 70% auto;
   }
   button.btn-1 {
     width: 60%;
