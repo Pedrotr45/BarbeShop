@@ -126,7 +126,7 @@ main {
   padding: 30px;
   background-color: rgba(0, 0, 0, 0.5568627451);
   text-align: center;
-   margin: 300px auto;
+   margin: 200px auto;
  
 }
 
@@ -903,7 +903,7 @@ footer.footer-2 {
   }
    .title-banner {
     width: 90%;
-    margin: 300px auto;
+    margin: 200px auto;
 }
   .title-banner h3 {
     font-size: 16px;
